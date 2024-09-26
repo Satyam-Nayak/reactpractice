@@ -1,5 +1,4 @@
 import React from 'react';
-import Compo2 from './Compo2';
 
 function Compo1() {
   return (
@@ -15,8 +14,9 @@ function Compo1() {
         </b>
       </p>
         </li></ul>
+        <img src="https://velog.velcdn.com/images/anna_12/post/8c5e6e8e-7f6b-4354-a981-09a6fccebf17/image.png" alt="" />
+
       
-      <Compo2 />
     </React.Fragment>
   );
 }
