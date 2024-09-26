@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Satyam-Nayak/reactpractice/static/css/main.f855e6bc.css",
+    "main.js": "/Satyam-Nayak/reactpractice/static/js/main.d6676a74.js",
+    "static/js/453.c62a88d1.chunk.js": "/Satyam-Nayak/reactpractice/static/js/453.c62a88d1.chunk.js",
+    "index.html": "/Satyam-Nayak/reactpractice/index.html",
+    "main.f855e6bc.css.map": "/Satyam-Nayak/reactpractice/static/css/main.f855e6bc.css.map",
+    "main.d6676a74.js.map": "/Satyam-Nayak/reactpractice/static/js/main.d6676a74.js.map",
+    "453.c62a88d1.chunk.js.map": "/Satyam-Nayak/reactpractice/static/js/453.c62a88d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d6676a74.js"
+  ]
+}
