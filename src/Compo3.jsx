@@ -1,4 +1,5 @@
 import React from "react";
+import './App.css';
 
 function Compo3(){
     return(
@@ -20,6 +21,17 @@ function Compo3(){
                 <li>They dynamically update parts of the page with new data without unmounting the whole page when the user communicates with the server.</li>
                 <li>SPAs avoid reloading the entire webpage, leading to a smoother and faster user experience.</li>    
             </ul>
+
+            <div className="SAPMODELS">
+            <h3 style={{textDecoration:"underline"}}>Client-Server (Request And Response Model)</h3>
+            <br />
+            <img src="/SPa client server model.png" alt="Client-Server Model" class="client-server-img" />
+            <br />
+            <h3 style={{textDecoration:"underline"}}>Client-React (Request And Response Model)</h3>
+            <br />
+            <img src="/client react req res model.png" alt="Client-Server Model" class="client-server-img" />
+            </div>
+            
 
         </React.Fragment>
     )
