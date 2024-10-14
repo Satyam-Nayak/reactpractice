@@ -10,6 +10,7 @@ import React from 'react'
         </ul>
         </div>
         <br />
+
         <div>
         <h2 >"npm" : </h2>
         <ul>
@@ -18,7 +19,17 @@ import React from 'react'
             <li>npm resources can be downloaded with the help of the Node.js application.</li>
             <li>Node.js is a server-side application that allows the user to run JavaScript programs on any system.</li>
             <li>Node.js is a runtime environment that allows you to execute JavaScript on the server-side (outside of a browser). It provides a command-line interface (CLI) to perform backend operations using JavaScript.</li>
+            <li>Node.js can create a server to handle requests and responses for JavaScript applications, enabling the development of server-side applications and APIs.</li>
+            <li>Node JS.org</li>
         </ul>
+        </div>
+
+        <div>
+          <h2>How to create a React Application ?</h2>
+          <h3>To create a React application we need to set up a react app</h3>
+          <ul>
+            <li>Command:- npm install -g create-react-app</li>
+          </ul>
         </div>
     </React.Fragment>
   )
