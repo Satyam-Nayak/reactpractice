@@ -30,7 +30,7 @@ import React from 'react'
           <ul>
           <li style={{ color: "white" }}>
             Command:{" "}
-            <a href="https://chatgpt.com/share/670dd23b-2124-8013-9532-0d14517b1292" target="_blank" style={{ color: "yellow" }}>
+            <a href="https://chatgpt.com/share/670dd23b-2124-8013-9532-0d14517b1292" target="_blank" rel="noopener noreferrer" style={{ color: "yellow" }}>
             npm install -g create-react-app
             </a>
             </li>
