@@ -31,9 +31,11 @@ import React from 'react'
           <li style={{ color: "white" }}>
             Command:{" "}
             <a href="https://chatgpt.com/share/670dd23b-2124-8013-9532-0d14517b1292" target="_blank" rel="noopener noreferrer" style={{ color: "yellow" }}>
-            npm install -g create-react-app
+            npm install -g create-react-app <p>(using this cmd we can set the react APP globaly)</p> 
             </a>
             </li>
+            <li>To install a react app we have to run the this cmnd syntax in the trminal:{" "} 
+              <a href="https://create-react-app.dev/docs/getting-started" target="_blank"  rel="noopener noreferrer" style={{ color:"yellow"}}> npx create-react-app my_app_name</a></li>
           </ul>
         </div>
     </React.Fragment>
