@@ -28,7 +28,12 @@ import React from 'react'
           <h2>How to create a React Application ?</h2>
           <h3>To create a React application we need to set up a react app</h3>
           <ul>
-            <li>Command:- npm install -g create-react-app</li>
+          <li style={{ color: "white" }}>
+            Command:{" "}
+            <a href="https://chatgpt.com/share/670dd23b-2124-8013-9532-0d14517b1292" target="_blank" style={{ color: "yellow" }}>
+            npm install -g create-react-app
+            </a>
+            </li>
           </ul>
         </div>
     </React.Fragment>
